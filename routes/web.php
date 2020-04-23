@@ -30,9 +30,10 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
     Route::get('work/delete', 'Admin\WorkController@delete');
     Route::get('contact', 'Admin\ContactController@index');
     Route::get('contact/delete', 'Admin\ContactController@delete');
+    Route::get('/', 'Admin\IndexController@index');
+    
     
 });
-
 Route::get('/', 'JewelryController@index');
 Route::get('/information', 'JewelryController@information');
 Route::get('/work', 'JewelryController@work');

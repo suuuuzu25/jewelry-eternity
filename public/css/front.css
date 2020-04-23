@@ -3,6 +3,7 @@ body {
   background-position: center;
   background-color: #F5F5F5;
   color: #000;
+	background-image: url(img/boke1209P1093_TP_V.jp);
 }
 
 .navbar-laravel {
@@ -58,9 +59,50 @@ body {
   border-bottom: solid 2px black;
   font-family:'Courier New';
   font-size:30px;
-  margin-bottom:15px;
-  margin-top:5px;
+  margin-bottom:35px;
+  margin-top:25px;
   }
-.col-md-4{
-  font-family:'游ゴシック体';
+.profile-container{
+  padding:50px 30px 50px 50px;
+  background-color:#fff;
+  display:flex;
+}
+.information-container{
+  padding:50px 30px 50px 50px;
+  background-color:#fff;
+  display:flex;
+}
+.work-container {
+  padding:50px 30px 50px 50px;
+  background-color:#fff;
+  display:flex;
+}
+.profile-title {
+  font-size:30px;
+  font-family:"Noto Sans Japaneze";
+  padding-left:30px;
+}
+.profile-text {
+  font-family:'Book Antiqua';
+  padding:20px 0px 0px 20px;
+  
+}
+.small {
+  line-height:10px;
+  font-size:15px;
+}
+p {
+  line-height:18px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+li {
+	margin-left: 1.4em;
+	text-indent: -1.4em;
+}
+.top {
+  background-image:url(img/boke1209P1093_TP_V.jpg);
+  width:2200px;
+  height:735px;
 }

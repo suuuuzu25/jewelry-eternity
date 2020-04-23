@@ -19,33 +19,29 @@ class JewelryController extends Controller
         return view('jewelry.index');
     }
     
-    public function information(Request $request)
-    {
-        // ここにお知らせ一覧を取得する処理を書く
-        $posts = Information::all()->sortByDesc('updated_at');
 
-        if (count($posts) > 0) {
-            $headline = $posts->shift();
-        } else {
-            $headline = null;
-        }
-        
-        
-        return view('jewelry.information');
-    }
+  public function information(Request $request)
+  {
+      $cond_body = $request->cond_body;
+      if ($cond_body != '') {
+          $posts = Information::where('body', 'like', "%$cond_body%")->get();
+      } else {
+          $posts = Information::all();
+      }
+      return view('jewelry.information', ['posts' => $posts, 'cond_body' => $cond_body]);
+  }
+
     public function work(Request $request)
     {
-        $posts = Work::all()->sortByDesc('updated_at');
+      $cond_title = $request->cond_title;
+      if ($cond_title != '') {
+          $posts = Work::where('title', $cond_title)->get();
+      } else {
+          $posts = Work::all();
+      }
+      return view('jewelry.work', ['posts' => $posts, 'cond_title' => $cond_title]);
+      }
 
-        if (count($posts) > 0) {
-            $headline = $posts->shift();
-        } else {
-            $headline = null;
-        }
-        
-        return view('jewelry.work');
-    
-    }
     public function profile(Request $request)
     {
         return view('jewelry.profile');

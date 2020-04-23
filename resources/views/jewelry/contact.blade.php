@@ -4,7 +4,7 @@
 @section('content')
     <div class="container">
         <div class="row">
-            <div class="col-md-8 mx-auto">
+            <div class="col-md-10 mx-auto">
                 <div class="title">
                             <p>Contact</p>
                    </div>
