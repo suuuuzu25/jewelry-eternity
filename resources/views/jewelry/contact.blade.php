@@ -1,6 +1,6 @@
 @extends('layouts.front')
 
-
+@section('title','お問合せ')
 @section('content')
     <div class="container">
         <div class="row">

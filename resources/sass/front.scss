@@ -2,16 +2,16 @@ body {
   background-repeat: no-repeat;
   background-position: center;
   background-color: #EEEEEE;
-  color: #000;
+  color: black;
 }
 
 .navbar-laravel {
-  background-color: #000;
+  background-color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
 .navbar-brand {
-  color: #fff !important;
+  color:  #777777!important;
 }
 
 .nav-link {
@@ -52,6 +52,6 @@ body {
         text-align: center;
     }
     a {
-        color: white;
+        color: #777777;
     }
 }

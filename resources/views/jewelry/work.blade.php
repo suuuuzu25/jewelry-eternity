@@ -1,30 +1,30 @@
 @extends('layouts.front')
-
+@section('title','作品')
 @section('content')
 <div class="container">
     <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
-                    <h1>Works</h1>
+                    <p>Works</p>
             </div>
             <div class="work-container">
-                <div class="image col-md-6 text-right mt-4">
-                    @if ($post->image_path)
-                        <img src="{{ asset('storage/image/' . $post->image_path) }}">
-                    @endif
+                <div class="item1">
+                    <a>item1</a>
+                </div>
+                <div class="item1">
+                    <a>item2</a>
+                </div>
+                <div class="item1">
+                    <a>item3</a>
                 </div>
                 
-                                <!--@foreach($posts as $work)-->
-                                <!--    <tr>-->
-                                <!--        <td>{{ str_limit($work->title, 100) }}</td>-->
-                                <!--        <td>{{ str_limit($work->description, 250) }}</td>-->
-                                        
-                                <!--    </tr>-->
-                                <!--@endforeach-->
+                
+                
+                
+            </div>
                                 
                 
                 
-            </div>
         </div>
     </div>
 </div>
