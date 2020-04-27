@@ -74,6 +74,10 @@ class JewelryController extends Controller
         $message->to($contact->email, $contact->name)
           ->subject('お問合せありがとうございます。');
       });
+       Mail::send(['text' => 'emails.contact_receive'], $data, function($message) use ($contact){
+        $message->to('suuuuzu77@gmail.com', '管理者様へ')
+          ->subject('お問い合わせがありました。');
+      });
       
       return redirect('contact');
       
