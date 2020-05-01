@@ -5,12 +5,13 @@
         <meta http-equiv="X-UA-Compatible" conetent="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token"content="{{ csrf_token()}}">
+        <meta name=”viewport” content=”width=device-width, initial-scale=1”>
         <title>@yield('title')</title>
-        <script src="{{ secure_asset('js/app.js') }}"defer></script>
+        <script src="{{ asset('js/app.js') }}"defer></script>
         <link rel="dns-prefetch" href="http://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,600" rel="stylesheet" type="text/css">
-        <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
-        <link href="{{ secure_asset('css/front.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/front.css') }}" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet">
         <!--動かない時はsecure_assetをassetにする-->
     </head>

@@ -18,29 +18,30 @@ class JewelryController extends Controller
     {
         return view('jewelry.index');
     }
-    
 
-  public function information(Request $request)
-  {
-      $cond_body = $request->cond_body;
-      if ($cond_body != '') {
-          $posts = Information::where('body', 'like', "%$cond_body%")->get();
-      } else {
-          $posts = Information::all();
-      }
-      return view('jewelry.information', ['posts' => $posts, 'cond_body' => $cond_body]);
-  }
+
+    public function information(Request $request)
+    {
+        $cond_body = $request->cond_body;
+        if ($cond_body != '') {
+            $posts = Information::where('body', 'like', "%$cond_body%")->get();
+        } else {
+            $posts = Information::all();
+        }
+        return view('jewelry.information', ['posts' => $posts, 'cond_body' => $cond_body]);
+    }
 
     public function work(Request $request)
     {
-      $cond_title = $request->cond_title;
-      if ($cond_title != '') {
-          $posts = Work::where('title', $cond_title)->get();
-      } else {
-          $posts = Work::all();
-      }
-      return view('jewelry.work', ['posts' => $posts, 'cond_title' => $cond_title]);
-      }
+        //   $cond_title = $request->cond_title;
+        //   if ($cond_title != '') {
+        //       $posts = Work::where('title', $cond_title)->get();
+        //   } else {
+        //       $posts = Work::all();
+        //   }
+        //   return view('jewelry.work', ['posts' => $posts, 'cond_title' => $cond_title]);
+        return view('jewelry.work');
+    }
 
     public function profile(Request $request)
     {
@@ -48,40 +49,37 @@ class JewelryController extends Controller
     }
     public function contact(Request $request)
     {
-        
+
         return view('jewelry.contact');
     }
-    
+
     public function complete(Request $request)
-  {
+    {
 
-      // Varidationを行う
-      $this->validate($request, Contact::$rules);
+        // Varidationを行う
+        $this->validate($request, Contact::$rules);
 
-      $contact = new Contact;
-      $form = $request->all();
+        $contact = new Contact;
+        $form = $request->all();
 
-      
 
-      unset($form['_token']);
-      // データベースに保存する
-      
-      $contact->fill($form);
-      $contact->save();
-      $data = ['contact' => $contact];
-      
-      Mail::send(['text' => 'emails.contact'], $data, function($message) use ($contact){
-        $message->to($contact->email, $contact->name)
-          ->subject('お問合せありがとうございます。');
-      });
-       Mail::send(['text' => 'emails.contact_receive'], $data, function($message) use ($contact){
-        $message->to('suuuuzu77@gmail.com', '管理者様へ')
-          ->subject('お問い合わせがありました。');
-      });
-      
-      return redirect('contact');
-      
-      
-  }
-    
+
+        unset($form['_token']);
+        // データベースに保存する
+
+        $contact->fill($form);
+        $contact->save();
+        $data = ['contact' => $contact];
+
+        Mail::send(['text' => 'emails.contact'], $data, function ($message) use ($contact) {
+            $message->to($contact->email, $contact->name)
+                ->subject('お問合せありがとうございます。');
+        });
+        Mail::send(['text' => 'emails.contact_receive'], $data, function ($message) use ($contact) {
+            $message->to('jeweleternity.info@gmail.com', '管理者様へ')
+                ->subject('お問い合わせがありました。');
+        });
+
+        return redirect('contact');
+    }
 }

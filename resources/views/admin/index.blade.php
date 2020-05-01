@@ -13,6 +13,7 @@
                     <li><a href="admin/information/create">新規お知らせ作成</a></li>
                     <li><a href="admin/work">作品一覧</a></li>
                     <li><a href="admin/work/create">新規作品追加</a></li>
+                    <li><a href="admin/contact">お問合せ確認</a></li>
                     <li><a href="/">ホームページへ</a></li>
                 </ul>
                 
