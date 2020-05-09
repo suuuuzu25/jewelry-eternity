@@ -72,14 +72,6 @@ body {
   background-color:#fff;
   display:flex;
 }
-.item1 {
-  padding:50px 30px 50px 50px;
-  background-color:#fff;
-  margin:10px;
-  float:left;
-  
-  
-}
 .profile-title {
   font-size:30px;
   font-family:"Noto Sans Japaneze";
@@ -129,4 +121,26 @@ li {
 h1 {
   padding-bottom:30px;
   font-size:100px;
+}
+.work-image {
+  display: flex;
+}
+.work-title {
+  font-size:20px;
+  font-family:"Noto Sans Japaneze";
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.work-block {
+  display: flex;
+}
+.work-container {
+  background-color:#fff;
+  padding:20px 15px 20px 0px;
+}
+.description{
+  padding-left: 20px;
+}
+.work-container {
+  margin-bottom: 30px;
 }

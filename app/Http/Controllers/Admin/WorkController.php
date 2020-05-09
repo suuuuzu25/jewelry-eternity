@@ -28,6 +28,7 @@ class WorkController extends Controller
       if (isset($form['image'])) {
         $path = $request->file('image')->store('public/image');
         $work->image_path = basename($path);
+        var_dump($path);
       } else {
           $work->image_path = null;
       }
@@ -43,25 +44,27 @@ class WorkController extends Controller
 
   public function index(Request $request)
   {
-      $cond_title = $request->cond_title;
-      if ($cond_title != '') {
-          $posts = Work::where('title', $cond_title)->get();
+      $cond_body = $request->cond_body;
+      if ($cond_body != '') {
+          $posts = Work::where('body', 'like', "%$cond_body%")->get();
       } else {
           $posts = Work::all();
       }
-      return view('admin.work.index', ['posts' => $posts, 'cond_title' => $cond_title]);
+      return view('admin.work.index', ['posts' => $posts, 'cond_body' => $cond_body]);
   }
 
 
-  public function edit(Request $request)
-  {
+
+
+    public function edit(Request $request)
+    {
       // Work Modelからデータを取得する
       $work = Work::find($request->id);
 
       return view('admin.work.edit', ['work_form' => $work]);
-  }
+    }
 
-      public function update(Request $request)
+    public function update(Request $request)
     {
         $this->validate($request, Work::$rules);
         $work = Work::find($request->id);
