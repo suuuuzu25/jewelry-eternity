@@ -132,4 +132,9 @@ h1 {
 }
 .work-container {
   background-color: #fff;
+
+}
+.work-title { 
+  background: linear-gradient(transparent 80%, #CCCCFF 80%);
+  display: inline-block;
 }
