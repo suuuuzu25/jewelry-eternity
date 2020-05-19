@@ -124,6 +124,8 @@ h1 {
 }
 .work-image {
   display: flex;
+  width: 30%;
+  height: auto;
 }
 .work-title {
   font-size:20px;
