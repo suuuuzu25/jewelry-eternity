@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
-                <p>Works</p>
+                <p>作品</p>
             </div>
             <div class="work-container">
                     <div class="row">

@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-md-10 mx-auto">
                 <div class="title">
-                            <p>Contact</p>
+                            <p>お問い合わせ</p>
                    </div>
                 <form action="{{ action('JewelryController@complete') }}" method="post" enctype="multipart/form-data">
 

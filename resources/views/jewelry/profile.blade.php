@@ -6,7 +6,7 @@
     <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
-                    <p>Profile</p>
+                    <p>プロフィール</p>
             </div>
             <div class="profile-container">
                 

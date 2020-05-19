@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
-                    <p>Information</p>
+                    <p>お知らせ</p>
             </div>
             <div class="information-container">
                 <table class="table table-white">
