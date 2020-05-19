@@ -33,14 +33,15 @@ class JewelryController extends Controller
 
     public function work(Request $request)
     {
-        $posts = Work::all()->sortByDesc('updated_at');
+        // $posts = Work::all()->sortByDesc('updated_at');
 
-        if (count($posts) > 0) {
-            $headline = $posts->shift();
-        } else {
-            $headline = null;
-        }
-        return view('jewelry.work', ['headline' => $headline, 'posts' => $posts]);
+        // if (count($posts) > 0) {
+        //     $headline = $posts->shift();
+        // } else {
+        //     $headline = null;
+        // }
+        // return view('jewelry.work', ['headline' => $headline, 'posts' => $posts]);
+        return view('jewelry.work');
     }
 
     public function profile(Request $request)

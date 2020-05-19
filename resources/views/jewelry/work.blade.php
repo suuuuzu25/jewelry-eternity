@@ -5,39 +5,40 @@
     <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
-                <p>work</p>
+                <p>Works</p>
             </div>
             <div class="work-container">
-                <hr color="#c0c0c0">
-                <div class="row">
-                    <div class="headline col-md-10 mx-auto">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="caption mx-auto">
-                                    <div class="work-image">
-                                        <img src=img\5DEE5998-6E56-4119-BA75-F057AF41F7F2-removebg-preview.png>
+                    <div class="row">
+                        <div class="headline col-md-10 mx-auto">
+                            <div class="row">
+                                <div class="work-image　mx-auto">
+                                    <img src="img\IMG_6412.jpg" width="228" height="261">
+                                </div>
+                                <div class="work-block　mx-auto">
+                                    <div class="work-title">
+                                        <p>ここはタイトルです</p>
                                     </div>
-                                    <div class="work-title p-2">
-                                        <h2>タイトル</h2>
+                                    <div class="description">
+                                        <p>ここは説明文ですここは説明文ですここは説明文ですここは説明文です</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
                 </div>
             </div>
             <div class="work-container">
-                <hr color="#c0c0c0">
-                <div class="row">
-                    <div class="headline col-md-10 mx-auto">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="caption mx-auto">
-                                    <div class="work-image">
-                                        <img src=img\5DEE5998-6E56-4119-BA75-F057AF41F7F2-removebg-preview.png>
+                    <div class="row">
+                        <div class="headline col-md-10 mx-auto">
+                            <div class="row">
+                                <div class="work-image　mx-auto">
+                                    <img src="img\IMG_6412.jpg" width="228" height="261">
+                                </div>
+                                <div class="work-block　mx-auto">
+                                    <div class="work-title">
+                                        <p>ここはタイトルです</p>
                                     </div>
-                                    <div class="work-title p-2">
-                                        <h2>タイトル</h2>
+                                    <div class="description">
+                                        <p>ここは説明文ですここは説明文ですここは説明文ですここは説明文です</p>
                                     </div>
                                 </div>
                             </div>
@@ -46,6 +47,8 @@
                 </div>
             </div>
         </div>
+
+
     </div>
 </div>
 @endsection
