@@ -31,12 +31,18 @@
                         </ui>
                     </div>
                 </div>
-                
-                
-                
-                
             </div>
-                
+        </div>
+    </div>
+    <div class="sns_box">
+        <div class="sns_button twitter">
+            <a href="https://twitter.com/takahashimisuzu" title="Tweet"><img src="img\social-003_twitter.png"></a>
+        </div>
+        <div class="sns_button facebook">
+            <a href="https://ja-jp.facebook.com/misuzu.takahashi" title="Facebook"><img src="img\social-006_facebook.png"></a>
+        </div>
+        <div class="sns_button instagram">
+            <a href="###" title="Instagram"><img src="img\social-038_instagram.png"></a>
         </div>
     </div>
 </div>

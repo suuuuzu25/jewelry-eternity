@@ -13,6 +13,7 @@
         <link href="{{ mix('css/app.css') }}" rel="stylesheet">
         <link href="{{ mix('css/front.css') }}" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet">
+        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
         <!--動かない時はsecure_assetをassetにする-->
     </head>
     
@@ -38,6 +39,7 @@
              @yield('content')     
                 
             </main>
-        </div>
-    </body>
+            
+        </body>
+    </div>
 </html>
