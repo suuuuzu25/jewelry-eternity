@@ -22,13 +22,9 @@ class JewelryController extends Controller
 
     public function information(Request $request)
     {
-        $cond_body = $request->cond_body;
-        if ($cond_body != '') {
-            $posts = Information::where('body', 'like', "%$cond_body%")->get();
-        } else {
-            $posts = Information::all();
-        }
-        return view('jewelry.information', ['posts' => $posts, 'cond_body' => $cond_body]);
+        $posts = Information::orderBy('id', 'desc')->get();
+        
+        return view('jewelry.information', ['posts' => $posts]);
     }
 
     public function work(Request $request)

@@ -13,10 +13,9 @@
         <link href="{{ mix('css/app.css') }}" rel="stylesheet">
         <link href="{{ mix('css/front.css') }}" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet">
-        <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
         <!--動かない時はsecure_assetをassetにする-->
+        @yield('css')
     </head>
-    
     <body>
         <div id="app">
             <nav class="navbar navbar-expand-md navbar-dark navbar-laravel">

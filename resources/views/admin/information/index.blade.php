@@ -38,7 +38,7 @@
                                 <th width="10%">操作</th>
                             </tr>
                         </thead>
-                                                <tbody>
+                        <tbody>
                             @foreach($posts as $information)
                                 <tr>
                                     <th>{{ $information->id }}</th>

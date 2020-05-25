@@ -1,6 +1,8 @@
 @extends('layouts.front')
+@section('css')
+<link href="css/jewelry/profile.css" rel="stylesheet">
+@endsection
 @section('title','プロフィール')
-
 @section('content')
 <div class="container">
     <div class="row">
@@ -42,7 +44,7 @@
             <a href="https://ja-jp.facebook.com/misuzu.takahashi" title="Facebook"><img src="img\social-006_facebook.png"></a>
         </div>
         <div class="sns_button instagram">
-            <a href="###" title="Instagram"><img src="img\social-038_instagram.png"></a>
+            <a href="https://instagram.com/pearl_white.snow_white?igshid=1ktmrvo4tdexf" title="Instagram"><img src="img\social-038_instagram.png"></a>
         </div>
     </div>
 </div>

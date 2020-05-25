@@ -1,4 +1,7 @@
 @extends('layouts.front')
+@section('css')
+<link href="css/jewelry/information.css" rel="stylesheet">
+@endsection
 @section('title','お知らせ')
 @section('content')
 <div class="container">
