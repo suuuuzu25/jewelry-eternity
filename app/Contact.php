@@ -11,7 +11,7 @@ class Contact extends Model
     // 以下を追記
     public static $rules = array(
         'name' => 'required',
-        'email' => 'required',
+        'email' => 'email',
         'body' => 'required',
     );
 }

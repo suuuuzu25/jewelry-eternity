@@ -28,8 +28,8 @@
                             <li><a href="/">Home</a></li>
                             <li><a href="/information">Information</a></li>
                             <li><a href="/profile">Profile</a></li>
-                            <li><a href="work">Works</a></li>
-                            <li><a href="contact">Contact</a></li>
+                            <li><a href="/work">Works</a></li>
+                            <li><a href="/contact">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

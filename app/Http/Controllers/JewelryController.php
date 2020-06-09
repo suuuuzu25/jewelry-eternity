@@ -39,7 +39,11 @@ class JewelryController extends Controller
         // return view('jewelry.work', ['headline' => $headline, 'posts' => $posts]);
         return view('jewelry.work');
     }
-
+    public function work2(Request $request)
+    {
+        return view('jewelry.work2');
+    }
+   
     public function profile(Request $request)
     {
         return view('jewelry.profile');

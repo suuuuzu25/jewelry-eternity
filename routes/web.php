@@ -37,6 +37,7 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
 Route::get('/', 'JewelryController@index');
 Route::get('/information', 'JewelryController@information');
 Route::get('/work', 'JewelryController@work');
+Route::get('/work2', 'JewelryController@work2');
 Route::get('/profile', 'JewelryController@profile');
 Route::get('/contact', 'JewelryController@contact');
 // Route::post('/contact/confirm', 'JewelryController@confirm');

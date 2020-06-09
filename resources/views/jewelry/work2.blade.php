@@ -14,189 +14,195 @@
             </div>
             <ul class = "page">
                 <li class = "page-list">page</li>
-                <li class = "page-list"><u>１</u></li>
-                <li class = "page-list"><a href="/work2">２</a></li>
+                <li class = "page-list"><a href="/work">１</a></li>
+                <li class = "page-list"><u>２</u></li>
             </ul>
-            <!-- １ -->
+            <!-- ６ -->
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\IMG_8122.jpg" width="427" height="320" alt="写真">
+                                <img src="img\IMG_3284.jpg" 　width="278" height="328" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt900パールサファイアリング</p>
+                                    <p>Sv925南洋ゴールデンパールリング&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
-                                    <p>9ミリの極上のあこやパールとエメラルドカットの美しいサファイアのリング。</p>
-                                    <p>アンティークとボリューム感のあるデザインというご希望で製作しました</p>
-                                    <p>「想像以上の仕上がりで、手にした時震えました」と嬉しいお言葉をいただきました。</p>
-                                </div>
-                            </div>
-                    </div>
-            </div>
-            <!-- ２ -->
-            <div class="work-container">
-                    <div class="headline col-md-10 mx-auto">
-                            <div class="work-image　mx-auto">
-                                <img src="img\IMG_6394.jpg" width="439" height="320" alt="写真">
-                            </div>
-                            <div class="work-block　mx-auto">
-                                <div class="work-title">
-                                    <p>Pt900 ダイヤモンドリング</p>
-                                </div>
-                                <div class="description">
-                                    <p>散りばめられたマーキースシェイプのダイヤモンドや地金がボタニカルなリング。</p>
-                                    <p>何度もデザインのディテールを検討してバランスを修正し、このデザインに辿り着きました</p>
-                                </div>
-                            </div>
-                    </div>
-            </div>
-           <!-- ３ -->
-           <div class="work-container">
-                    <div class="headline col-md-10 mx-auto">
-                            <div class="work-image　mx-auto">
-                                <img src="img\IMG_4480.jpg" width="424" height="320" alt="写真">
-                            </div>
-                            <div class="work-block　mx-auto">
-                                <div class="work-title">
-                                    <p>Pt900 ダイヤモンドリング</p>
-                                </div>
-                                <div class="description">
-                                    <p>全面にミルグレインを施したアンティークテイストのリング。</p>
-                                    <p>センターストーンはオーバルローズカットダイヤモンド。サイドにはライトイエローのラウンドブリリアントダイヤモンド。</p>
-                                    <p>腕はボタニカルなデザインでエレガントに仕上げました。</p>
-                                </div>
-                            </div>
-                    </div>
-            </div>
-            <!-- ４ -->
-            <div class="work-container">
-                    <div class="headline col-md-10 mx-auto">
-                            <div class="work-image　mx-auto">
-                                <img src="img\IMG_6412.jpg" width="286" height="328" alt="写真">
-                            </div>
-                            <div class="work-block　mx-auto">
-                                <div class="work-title">
-                                    <p>Pt900 マルチカラーペンダントトップ</p>
-                                </div>
-                                <div class="description">
-                                    <p>色合いの美しいホワイトオパールと、透明感と煌めきのクンツァイトとアクアマリン。</p>
-                                    <p>色の美しい大粒の3石をバランス良く組み合わせ、その間にこぼれ落ちるようにパライバトルマリンとダイヤモンドのメレを配したペンダントトップ。</p>
-                                    <p>宝石好きのお客様ならではの一点です。</p>
+                                    <p>シンプルながら大胆な菱型フォルムのリング。角度を変えてのペンダントはまた違う印象に。</p>
+                                    <p>JJAジュエリーデザインアワード2010入選作品。</p>
                                 </div>
                             </div>
                     </div>
             </div>
 
-            <!-- ４−２ -->
+            <!--　７ -->
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_9790.JPG" width="390" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>ルビーリング</p>
+                                    <p>K18PGダイヤモンドネックレス</p>
+                                </div>
+                                <div class="description">
+                                    <p>正面はシンプルなベゼルセッティング、裏にイニシャルのmを入れました。</p>
+                                    <p>娘への二十歳のプレゼントです</p>
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+            <!-- ８ -->
+            <div class="work-container">
+                    <div class="headline col-md-10 mx-auto">
+                            <div class="work-image　mx-auto">
+                                <img src="img\IMG_3342 2.JPG" width="320" height="356" alt="写真">
+                            </div>
+                            <div class="work-block　mx-auto">
+                                <div class="work-title">
+                                    <p>Pt900  マリッジリング</p>
+                                </div>
+                                <div class="description">
+                                    <p>丸と四角がエンドレスにつながるマリッジリング。</p>
+                                    <p>女性用にはメレダイヤモンドを入れました。</p>
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+            <!-- ９ -->
+            <div class="work-container">
+                    <div class="headline col-md-10 mx-auto">
+                            <div class="work-image　mx-auto">
+                                <img src="img\IMG_3346.JPG" width="320" height="356" alt="写真">
+                            </div>
+                            <div class="work-block　mx-auto">
+                                <div class="work-title">
+                                    <p>Pt900 マリッジリング</p>
+                                </div>
+                                <div class="description">
+                                    <p>正面からはシンプルでも、サイドからはフラワーモチーフが見えるロマンティックなマリッジリングです。</p>
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+            <!-- １０−１ -->
+            <div class="work-container">
+                    <div class="headline col-md-10 mx-auto">
+                            <div class="work-image　mx-auto">
+                                <img src="img\" 　width="437" height="328" alt="写真">
+                            </div>
+                            <div class="work-block　mx-auto">
+                                <div class="work-title">
+                                    <p>桜ブローチ</p>
                                 </div>
                                 <div class="description">
                                     <p>説明文</p>
-                                    
+
                                 </div>
                             </div>
                     </div>
             </div>
 
-             <!-- ４−３ -->
-             <div class="work-container">
-                    <div class="headline col-md-10 mx-auto">
-                            <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
-                            </div>
-                            <div class="work-block　mx-auto">
-                                <div class="work-title">
-                                    <p>王冠のリング</p>
-                                </div>
-                                <div class="description">
-                                    <p>説明文</p>
-                                </div>
-                            </div>
-                    </div>
-            </div>
-
-            <!-- ４−４ -->
+            <!-- １０ -->
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_8324.jpg" 　width="360" height="270" alt="写真">
+                                <img src="img\IMG_8320.JPG" 　width="360" height="270" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>金魚ブローチ</p>
+                                    <p>Sv 925 バタフライモチーフリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>2本合わせるとバタフライモチーフになるリング。</p>
+                                    <p>向きを変えても楽しめます。</p>
                                 </div>
                             </div>
                     </div>
             </div>
 
-            <!-- ４−５ -->
+            <!-- １１ -->
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_5190.JPG" 　width="437" height="328" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Rリング</p>
+                                    <p> Sv 925 マルチカラーバタフライイヤリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>オペラ「マダム　バタフライ」をテーマにしたイヤリング。</p>
+                                    <p>女性の二面性を左右違うカラーストーンで表現しました。</p>
+                                    <p>GEMSVISIONS THE BRIDAL BOOK掲載。</p>
                                 </div>
                             </div>
                     </div>
             </div>
 
-            <!-- ４−６ -->
+            <!-- １２-1 -->
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_4351.jpg" width="442" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>時計ペンダント</p>
+                                    <p>螺旋リング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>リングとセットのイヤリング。</p>
+                                    <p>白と黒、スワロフスキーと反った地金の鏡面の対比が美しく仕上がりました。</p>
                                 </div>
                             </div>
                     </div>
             </div>
 
-             <!-- ５ -->
-             <div class="work-container">
+            <!-- １２ -->
+            <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\IMG_3273 2.JPG" width="320" height="320" alt="写真">
-                                <img src="img\IMG_7805.jpg" width="320" height="296" alt="写真">
+                                <img src="img\IMG_3344 2.JPG" width="416" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>K18ダイヤモンドリング&ペンダントトップ</p>
+                                    <p>Sv 925  スワロフスキージルコニアイヤリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>両面に異なる宝石を留めることにより、ペンダントにした時にリバーシブルとしても楽しめるリング。</p>
-                                    <p>兼用できるデザインをとのご希望を叶えられました。</p>
+                                    <p>リングとセットのイヤリング。</p>
+                                    <p>白と黒、スワロフスキーと反った地金の鏡面の対比が美しく仕上がりました。</p>
+                                </div>
+                            </div>
+                    </div>
+            </div>
+
+
+            <!-- １3 -->
+            <div class="work-container">
+                    <div class="headline col-md-10 mx-auto">
+                            <div class="work-image　mx-auto">
+                                <img src="img\IMG_8305.JPG" width="426" height="320" alt="写真">
+                            </div>
+                            <div class="work-block　mx-auto">
+                                <div class="work-title">
+                                    <p>Sv 925 スワロフスキージルコニアリング</p>
+                                </div>
+                                <div class="description">
+                                    <p>白と黒、丸と四角、光と影など、対極にあるものを融合させることをテーマとした作品。。</p>
+                                    <p>スワロフスキーGEMSジュエリーコンテスト2011グランプリ。</p>
+                                    <p>GEMSVISIONS THE BRIDAL BOOK掲載。</p>
                                 </div>
                             </div>
                     </div>
             </div>
             <ul class = "page">
                 <li class = "page-list">page</li>
-                <li class = "page-list"><u>１</u></li>
-                <li class = "page-list"><a href="/work2">２</a></li>
+                <li class = "page-list"><a href="/work">１</a></li>
+                <li class = "page-list"><u>２</u></li>
             </ul>
             </ul>
             

@@ -7,9 +7,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-10 mx-auto">
-            <div class="title">
-                    <p>お知らせ</p>
-            </div>
+            <div class = title>お知らせ</div>
             <div class="information-container">
                 <table class="table table-white">
                     <tbody>

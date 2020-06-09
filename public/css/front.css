@@ -57,9 +57,10 @@ body {
 .title {
   width: 300px;
   border-bottom: solid 2px black;
-  font-family:'Courier New';
-  font-size:30px;
-  margin-bottom:35px;
-  margin-top:25px;
-  color:black;
+  font-family: "Courier New";
+  font-size: 30px;
+  margin-bottom: 35px;
+  margin-top: 25px;
+  color: black;
 }
+

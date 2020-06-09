@@ -35,7 +35,7 @@ return [
     'different'            => ':attributeは:otherと違うものにしてください。',
     'digits'               => ':attributeは:digits桁にしてください',
     'digits_between'       => ':attributeは:min〜:max桁にしてください。',
-    'email'                => ':attributeを正しいメールアドレスにしてください。',
+    'email'                => 'この:attributeは無効です。',
     'filled'               => ':attributeは必須です。',
     'exists'               => '選択された:attributeは正しくありません。',
     'image'                => ':attributeは画像にしてください。',
@@ -75,6 +75,8 @@ return [
     'timezone'             => ':attributeは正しいタイムゾーンをしていしてください。',
     'unique'               => ':attributeは既に存在します。',
     'url'                  => ':attributeを正しい書式にしてください。',
+    // ''                  => 'この:attributeは無効です・',
+
 
     /*
     |--------------------------------------------------------------------------
