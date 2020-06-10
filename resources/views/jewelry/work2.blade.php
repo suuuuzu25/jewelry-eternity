@@ -28,7 +28,7 @@
                                     <p>Sv925南洋ゴールデンパールリング&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
-                                    <p>シンプルながら大胆な菱型フォルムのリング。角度を変えてのペンダントはまた違う印象に。</p>
+                                    <p>シンプルながら大胆な四角いフォルムのリング。角度を変えてのペンダントはまた違う印象に。</p>
                                     <p>JJAジュエリーデザインアワード2010入選作品。</p>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@
                                     <p>K18PGダイヤモンドネックレス</p>
                                 </div>
                                 <div class="description">
-                                    <p>正面はシンプルなベゼルセッティング、裏にイニシャルのmを入れました。</p>
+                                    <p>正面はシンプルなダイヤモンドベゼルセッティング、裏にイニシャルのmを入れました。</p>
                                     <p>娘への二十歳のプレゼントです</p>
                                 </div>
                             </div>
@@ -92,15 +92,15 @@
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" 　width="437" height="328" alt="写真">
+                                <img src="img\IMG_5785.JPG" 　width="320" height="426" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>桜ブローチ</p>
+                                    <p>Sv925K18PGP桜モチーフブローチ</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
-
+                                    <p>桜の花で日本列島を形どり、ベビーパールを東北地方に。</p>
+                                    <p>東日本大震災の復興を祈ってお作りしたブローチです。</p>
                                 </div>
                             </div>
                     </div>
@@ -136,7 +136,7 @@
                                     <p> Sv 925 マルチカラーバタフライイヤリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>オペラ「マダム　バタフライ」をテーマにしたイヤリング。</p>
+                                    <p>オペラ「マダム　バタフライ」にインスパイアされたイヤリング。</p>
                                     <p>女性の二面性を左右違うカラーストーンで表現しました。</p>
                                     <p>GEMSVISIONS THE BRIDAL BOOK掲載。</p>
                                 </div>

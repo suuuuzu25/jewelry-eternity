@@ -1,22 +1,29 @@
+@media screen and (min-width:1024px) {
+    .profile-container{
+        display: flex;
+        padding:50px 30px 50px 50px;
+    }
+ 
+}
+
 .profile-container{
-    padding:50px 30px 50px 50px;
     background-color:#fff;
-    display:flex;
     color:black;
 }
 .profile-title {
-font-size:30px;
+font-size: 5vmin;
 font-family:"Noto Sans Japaneze";
 padding-left:30px;
 }
 .profile-text {
 font-family:'Book Antiqua';
-padding:20px 0px 0px 20px;
+padding:20px 0px 10px 20px;
+font-size: 2vmin;
 
 }
 .small {
 line-height:10px;
-font-size:15px;
+font-size: 2vmin;
 }
 
 p {
@@ -26,8 +33,8 @@ line-height:18px;
 margin-bottom: 30px;
 }
 .profile-list{
-        margin-left: 1.4em;
-        text-indent: -1.4em;
+    margin-left: 1.4em;
+    text-indent: -1.4em;
 }
 
 ol, ul {
@@ -119,4 +126,21 @@ color: #3B5999;
 
 .instagram:hover a {
 color: #2b5c84;
+}
+@media screen and (max-width: 700px) {
+    img {
+        text-align: center;
+        max-width: 100%;
+        height: auto;
+    }
+
+    p {
+        line-height:10px;
+    }
+    .profile-container{
+        background-color:#fff;
+    }
+    .profile-title {
+        padding-top: 8px;
+    }
 }

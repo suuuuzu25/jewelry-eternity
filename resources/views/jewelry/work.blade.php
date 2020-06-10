@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="description">
                                     <p>散りばめられたマーキースシェイプのダイヤモンドや地金がボタニカルなリング。</p>
-                                    <p>何度もデザインのディテールを検討してバランスを修正し、このデザインに辿り着きました</p>
+                                    <p>何度もデザインのディテールを検討してバランスを調整し、このデザインに辿り着きました</p>
                                 </div>
                             </div>
                     </div>
@@ -63,8 +63,8 @@
                                     <p>Pt900 ダイヤモンドリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>全面にミルグレインを施したアンティークテイストのリング。</p>
-                                    <p>センターストーンはオーバルローズカットダイヤモンド。サイドにはライトイエローのラウンドブリリアントダイヤモンド。</p>
+                                    <p>全体にミルグレインを施したアンティークテイストのリング。</p>
+                                    <p>センターストーンはオーバルローズカットダイヤモンド。サイドにはライトイエローのラウンドブリリアントカットダイヤモンド。</p>
                                     <p>腕はボタニカルなデザインでエレガントに仕上げました。</p>
                                 </div>
                             </div>
@@ -78,7 +78,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt900 マルチカラーペンダントトップ</p>
+                                    <p>Pt900 マルチカラーストーンペンダントトップ</p>
                                 </div>
                                 <div class="description">
                                     <p>色合いの美しいホワイトオパールと、透明感と煌めきのクンツァイトとアクアマリン。</p>
@@ -93,14 +93,15 @@
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_6410.jpg" width="419" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>ルビーリング</p>
+                                    <p>Pt 900 ルビーリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>非加熱のシュガーローフカットのルビーをリングに。</p>
+                                    <p>腕の振り方、メレダイヤモンドの配置にもお客様のこだわりが詰まった作品です。</p>
                                     
                                 </div>
                             </div>
@@ -111,14 +112,16 @@
              <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_6532.JPG" width="320" height="426" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>王冠のリング</p>
+                                    <p>Pt900 /K18マルチカラーストーン　クラウンモチーフリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>クラウンに柔らかな流れを入れ、ボリューム感はありながらエレガントなスタイルに。</p>
+                                    <p>メインストーンに大粒のルベライトとイエローサファイア。</p>
+                                    <p>その他も主石級のファンシーシェイプのダイヤモンド、カラーサファイアをふんだんに使い、とびきりゴージャスなリングに仕上げました。</p>
                                 </div>
                             </div>
                     </div>
@@ -128,14 +131,16 @@
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_5970.jpg" width="320" height="405" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>金魚ブローチ</p>
+                                    <p>K18/Pt900金魚モチーフブローチ&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>優雅に泳ぐ金魚のブローチ兼ペンダントトップ。</p>
+                                    <p>頭にピンクサファイア、目にはブルーサファイアを配し、大小の気泡をウォーターオパール、水面から溢れる日差しをペリドットで表現しました。</p>
+                                    <p>お客様のパートナーの方がデザインし、作りについてもご相談しながら、完成品はとてもご満足いただきました。</p>
                                 </div>
                             </div>
                     </div>
@@ -145,14 +150,15 @@
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_2908.JPG" width="326" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Rリング</p>
+                                    <p>Pt900ダイヤモンドリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>お子様のイニシャル「R」をメインモチーフとし、全体をバタフライやフラワーモチーフでフェミニンにまとめたリング。</p>
+                                    <p>サイドにあしらわれたプリンセスカットのダイヤモンドがワンポイントとなっています。</p>
                                 </div>
                             </div>
                     </div>
@@ -162,14 +168,15 @@
             <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\" width="320" height="320" alt="写真">
+                                <img src="img\IMG_2219.jpg" width="320" height="524" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>時計ペンダント</p>
+                                    <p>K18WG 時計モチーフペンダントトップ</p>
                                 </div>
                                 <div class="description">
-                                    <p>説明文</p>
+                                    <p>ポップでモダンな印象の時計モチーフペンダントトップ。</p>
+                                    <p>文字盤のダイヤモンド使いと、お祖父様とお祖母様のお名前がポイントの個性的なペンダントに仕上がりました。</p>
                                 </div>
                             </div>
                     </div>

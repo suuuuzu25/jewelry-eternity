@@ -5,7 +5,6 @@
 @section('title','プロフィール')
 @section('content')
 <div class="container">
-    <div class="row">
         <div class="col-md-10 mx-auto">
             <div class="title">
                     <p>プロフィール</p>
@@ -35,7 +34,6 @@
                 </div>
             </div>
         </div>
-    </div>
     <div class="sns_box">
         <div class="sns_button twitter">
             <a href="https://twitter.com/takahashimisuzu" title="Tweet"><img src="img\social-003_twitter.png"></a>
