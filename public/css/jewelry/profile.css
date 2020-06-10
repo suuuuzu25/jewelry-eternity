@@ -18,7 +18,6 @@ padding-left:30px;
 .profile-text {
 font-family:'Book Antiqua';
 padding:20px 0px 10px 20px;
-font-size: 2vmin;
 
 }
 .small {
@@ -142,5 +141,7 @@ color: #2b5c84;
     }
     .profile-title {
         padding-top: 8px;
+        font-size: 20px;
     }
+
 }

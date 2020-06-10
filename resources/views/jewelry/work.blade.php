@@ -25,10 +25,10 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt900パールサファイアリング</p>
+                                    <p>Pt900　パールサファイアリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>9ミリの極上のあこやパールとエメラルドカットの美しいサファイアのリング。</p>
+                                    <p>９ミリの極上のあこやパールとエメラルドカットの美しいサファイアのリング。</p>
                                     <p>アンティークとボリューム感のあるデザインというご希望で製作しました</p>
                                     <p>「想像以上の仕上がりで、手にした時震えました」と嬉しいお言葉をいただきました。</p>
                                 </div>
@@ -82,7 +82,7 @@
                                 </div>
                                 <div class="description">
                                     <p>色合いの美しいホワイトオパールと、透明感と煌めきのクンツァイトとアクアマリン。</p>
-                                    <p>色の美しい大粒の3石をバランス良く組み合わせ、その間にこぼれ落ちるようにパライバトルマリンとダイヤモンドのメレを配したペンダントトップ。</p>
+                                    <p>色の美しい大粒の３石をバランス良く組み合わせ、その間にこぼれ落ちるようにパライバトルマリンとダイヤモンドのメレを配したペンダントトップ。</p>
                                     <p>宝石好きのお客様ならではの一点です。</p>
                                 </div>
                             </div>
@@ -97,7 +97,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt 900 ルビーリング</p>
+                                    <p>Pt900 ルビーリング</p>
                                 </div>
                                 <div class="description">
                                     <p>非加熱のシュガーローフカットのルビーをリングに。</p>
@@ -113,14 +113,15 @@
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
                                 <img src="img\IMG_6532.JPG" width="320" height="426" alt="写真">
+                                <img src="img\IMG_6540.jpg" width="309" height="426" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt900 /K18マルチカラーストーン　クラウンモチーフリング</p>
+                                    <p>Pt900/K18　マルチカラーストーン　クラウンモチーフリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>クラウンに柔らかな流れを入れ、ボリューム感はありながらエレガントなスタイルに。</p>
-                                    <p>メインストーンに大粒のルベライトとイエローサファイア。</p>
+                                    <p>クラウン部分に柔らかな流れを入れ、ボリューム感はありながらエレガントなスタイルに。</p>
+                                    <p>メインストーンに大粒のルベライトと反対側にはイエローサファイア。</p>
                                     <p>その他も主石級のファンシーシェイプのダイヤモンド、カラーサファイアをふんだんに使い、とびきりゴージャスなリングに仕上げました。</p>
                                 </div>
                             </div>
@@ -135,7 +136,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>K18/Pt900金魚モチーフブローチ&ペンダントトップ</p>
+                                    <p>K18/Pt900　金魚モチーフブローチ&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
                                     <p>優雅に泳ぐ金魚のブローチ兼ペンダントトップ。</p>
@@ -154,7 +155,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Pt900ダイヤモンドリング</p>
+                                    <p>Pt900　ダイヤモンドリング</p>
                                 </div>
                                 <div class="description">
                                     <p>お子様のイニシャル「R」をメインモチーフとし、全体をバタフライやフラワーモチーフでフェミニンにまとめたリング。</p>
@@ -186,12 +187,12 @@
              <div class="work-container">
                     <div class="headline col-md-10 mx-auto">
                             <div class="work-image　mx-auto">
-                                <img src="img\IMG_3273 2.JPG" width="320" height="320" alt="写真">
                                 <img src="img\IMG_7805.jpg" width="320" height="296" alt="写真">
+                                <img src="img\IMG_3273 2.JPG" width="320" height="320" alt="写真">
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>K18ダイヤモンドリング&ペンダントトップ</p>
+                                    <p>K18　ダイヤモンドリング&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
                                     <p>両面に異なる宝石を留めることにより、ペンダントにした時にリバーシブルとしても楽しめるリング。</p>

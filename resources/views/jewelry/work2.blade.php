@@ -25,7 +25,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Sv925南洋ゴールデンパールリング&ペンダントトップ</p>
+                                    <p>Sv925　南洋ゴールデンパールリング&ペンダントトップ</p>
                                 </div>
                                 <div class="description">
                                     <p>シンプルながら大胆な四角いフォルムのリング。角度を変えてのペンダントはまた違う印象に。</p>
@@ -46,8 +46,8 @@
                                     <p>K18PGダイヤモンドネックレス</p>
                                 </div>
                                 <div class="description">
-                                    <p>正面はシンプルなダイヤモンドベゼルセッティング、裏にイニシャルのmを入れました。</p>
-                                    <p>娘への二十歳のプレゼントです</p>
+                                    <p>正面はシンプルなダイヤモンドのベゼルセッティング、裏にイニシャルのmを入れました。</p>
+                                    <p>娘への二十歳のプレゼントです。</p>
                                 </div>
                             </div>
                     </div>
@@ -96,7 +96,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Sv925K18PGP桜モチーフブローチ</p>
+                                    <p>Sv925K18PGP　桜モチーフブローチ</p>
                                 </div>
                                 <div class="description">
                                     <p>桜の花で日本列島を形どり、ベビーパールを東北地方に。</p>
@@ -115,7 +115,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Sv 925 バタフライモチーフリング</p>
+                                    <p>Sv925 バタフライモチーフリング</p>
                                 </div>
                                 <div class="description">
                                     <p>2本合わせるとバタフライモチーフになるリング。</p>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p> Sv 925 マルチカラーバタフライイヤリング</p>
+                                    <p>Sv925 マルチカラーバタフライイヤリング</p>
                                 </div>
                                 <div class="description">
                                     <p>オペラ「マダム　バタフライ」にインスパイアされたイヤリング。</p>
@@ -152,11 +152,11 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>螺旋リング</p>
+                                    <p>K18WG　ダイヤモンドリング</p>
                                 </div>
                                 <div class="description">
-                                    <p>リングとセットのイヤリング。</p>
-                                    <p>白と黒、スワロフスキーと反った地金の鏡面の対比が美しく仕上がりました。</p>
+                                    <p>スパイラルを描くホワイトとブラックダイヤモンド。</p>
+                                    <p>対極にありながら繋がっている矛盾と永遠性がテーマです。</p>
                                 </div>
                             </div>
                     </div>
@@ -170,7 +170,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Sv 925  スワロフスキージルコニアイヤリング</p>
+                                    <p>Sv925  スワロフスキージルコニアイヤリング</p>
                                 </div>
                                 <div class="description">
                                     <p>リングとセットのイヤリング。</p>
@@ -189,7 +189,7 @@
                             </div>
                             <div class="work-block　mx-auto">
                                 <div class="work-title">
-                                    <p>Sv 925 スワロフスキージルコニアリング</p>
+                                    <p>Sv925 スワロフスキージルコニアリング</p>
                                 </div>
                                 <div class="description">
                                     <p>白と黒、丸と四角、光と影など、対極にあるものを融合させることをテーマとした作品。。</p>
