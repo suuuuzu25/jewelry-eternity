@@ -16,6 +16,7 @@
                 <li class = "page-list">page</li>
                 <li class = "page-list"><u>１</u></li>
                 <li class = "page-list"><a href="/work2">２</a></li>
+                <li class = "page-list"><a href="https://case.aidect.jp/?cat=82"><span>ほかの作品例はこちらから</span></a></li>
             </ul>
             <!-- １ -->
             <div class="work-container">
@@ -205,6 +206,7 @@
                 <li class = "page-list">page</li>
                 <li class = "page-list"><u>１</u></li>
                 <li class = "page-list"><a href="/work2">２</a></li>
+                <li class = "page-list"><a href="https://case.aidect.jp/?cat=82"><span>ほかの作品例はこちらから</span></a></li>
             </ul>
             </ul>
             

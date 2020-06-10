@@ -83,3 +83,8 @@ ul {
   }
 
 }
+span {
+  color: #000000;
+  background: white;
+  padding: 0.5em;
+}
